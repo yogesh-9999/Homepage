@@ -17,13 +17,13 @@ background-color: #fffcef;
   
 width: 100%;
   /* background-size: ; */
-  width: 99%;
+  width: 100%;
   background-color: whitesmoke;
   border-radius: 4px;
   margin-left: 2px;
   margin-right: 10px;
   /* padding-left: 10px; */
-  padding-right: 10px;
+  padding-right: 90px;
 }
 .navi div {
   background-color: whitesmoke;
