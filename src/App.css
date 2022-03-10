@@ -1,0 +1,288 @@
+
+body{
+  /* background-size:0%; */
+  margin: 0;
+padding: 0;
+width: 100%;
+background-color: #fffcef;
+
+}
+.heading {
+  /* border: 2px solid red; */
+  display: block;
+  margin: -17px 555px 25px 108px;
+  padding: 9px;
+}
+.navi {
+  
+width: 100%;
+  /* background-size: ; */
+  width: 99%;
+  background-color: whitesmoke;
+  border-radius: 4px;
+  margin-left: 2px;
+  margin-right: 10px;
+  /* padding-left: 10px; */
+  padding-right: 10px;
+}
+.navi div {
+  background-color: whitesmoke;
+  overflow: auto;
+  margin: 1px 63px -10px 177px;
+  padding: 1px 3px 1px 19px;
+}
+
+.navi img {
+  float: left;
+  height: 50px;
+  width: 62px;
+  margin: 5px 2px 5px 200px;
+  padding: 10px 3px 3px 4px;
+}
+
+.navi li {
+  float: right;
+  margin: 5px 3px 2px 12px;
+  list-style: none;
+  padding: 25px 50px 25px 10px;
+}
+
+body {
+ 
+width: 100%;
+  background-color: solid #1e4fd6;
+  height: 100%;
+  width: 100%;
+}
+
+.frame {
+  background-color: #fefcd3;
+  width: 100%;
+  /* border: 4px solid black; */
+  width: 99%;
+  margin: 16px 9px 6px -1px; /*top right left bottom */
+  padding: 1px 2px -6px 5px;
+}
+
+.frame-.dropbtn:focus {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover,
+.dropbtn:focus {
+  background-color: #2980b9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+  display: block;
+}
+.bantu {
+  color: yellow;
+}
+.fame {
+  width: 1204px;
+  background-color: #fffcef;
+  height: 2000px;
+  /* border: 2px solid red; */
+  margin: 18px -35px 26px 12px;
+  padding: -2px 3px 0px 1px;
+}
+
+.heading {
+  /* border: 2px solid red; */
+  display: block;
+  margin: 62px 555px 25px 108px;
+  padding: 9px;
+}
+.arrang {
+  display: flex;
+  margin: 70px 435px 23px 104px;
+  padding: 0px;
+}
+.dropdown {
+  width: 169px;
+  height: 44px;
+
+  /* border:2px solid black; */
+  margin: 1px 2px 3pc 4px;
+  padding: 1px 2px 3px 4px;
+  /* background: #FFFFFF; */
+  /* border: 1px solid #B8B298; */
+  /* border-radius: 8px; */
+}
+.blockss {
+  /* border: 8px solid blue; */
+  padding: 20px;
+  display: flex;
+  display: flex; /* Initialize the container as a flex box */
+
+  /* Flex properties for a flex container */
+
+  /* flex-direction: row; (Default value of flex-direction is row) */
+  /* /* flex-direction: column; */
+  /* flex-direction: row-reverse; */
+  /* flex-direction: column-reverse;  */
+
+  flex-wrap: wrap; /*(Default value of flex-direction is no-wrap) */
+  /* flex-wrap: wrap-reverse; */
+
+  /* This is a shorthand for flex-direction: and flex-wrap: ;; */
+  flex-flow: reverse wrap;
+
+  /* justify-content will justify the content in horizontal direction */
+  justify-content: left;
+  /* justify-content: space-between; */
+  /* justify-content: space-evenly; */
+  /* justify-content: space-around; */
+
+  /* justify-content will justify the content in vertical direction */
+  /* align-items: center; */
+  /* align-items: flex-end; */
+  align-items: flex-start;
+  align-items: stretch;
+}
+.mar {
+  margin: 10px;
+  padding: 10px;
+}
+#er {
+  background-color: whitesmoke;
+  height: 301px;
+  width: 451px;
+  /* border: 3px solid green; */
+  border-radius: 15px;
+  margin: 10px;
+}
+#firstp {
+  display: flex;
+  flex-direction: row;
+}
+#er img {
+  float: left;
+  display: inline;
+  height: 66px;
+  width: 68px;
+  /* width: 63px; */
+  width: 62px;
+  margin: 27px;
+  /* padding: 15px; */
+  /* border: 3px solid green; */
+  border-radius: 10px;
+}
+/* 
+#er pair{
+  height:200px;
+  width:100px;
+  display:inline;
+  border: 3px solid green;
+  
+} */
+#ux1 {
+  padding: 20px 7px 12px 1px;
+  margin: 6px 1px 1px 1px;
+}
+
+#ux2 {
+  padding: 1px 6px 4px 1px;
+  margin: 4px 1px 1px 1px;
+}
+#ux3 {
+  padding: 1px 6px 4px 1px;
+  margin: 4px 1px 1px 1px;
+}
+
+#ux4 {
+  padding: 1px 6px 4px 1px;
+  margin: 4px 1px 1px 1px;
+}
+/* 
+#ux1{
+  padding:2px 1px 1px 1px;
+  margin:2px 1px 1px 1px;
+} */
+
+#secondp {
+  display: flex;
+  flex-direction: row;
+}
+#firstp2 {
+  float: left;
+  display: inline;
+  width: 20%;
+  margin: 12px;
+  padding: 14px;
+  /* width: 63px; */
+
+  /* padding: 15px; */
+  /* border: 3px solid green; */
+}
+.fb {
+  display: block;
+  margin: 11px 4px 2px -10px;
+  padding: 2px;
+}
+#samplee {
+  height: 100px;
+  width: 100px;
+}
+.dark {
+  display: none;
+}
+.light {
+  display: contents;
+}
+#lala {
+  width: 280px;
+  height: 411px;
+  border: 1px fade black;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+
+  padding: 2px;
+}
+.dropdown button {
+  font-size: 15px;
+  font-weight: 50;
+  background-color: #ffffff;
+  height: 60px;
+  width: 164px;
+  margin: 3px 2px 10px 1px;
+  padding: 0px 1px 7px 1px;
+  border:1px solid black;
+  border-radius: 8px;
+}
