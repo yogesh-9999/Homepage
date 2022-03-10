@@ -1,7 +1,13 @@
-# Getting Started with Create React App
-![Screenshot (392)](https://user-images.githubusercontent.com/84492118/156933381-cc33258b-6dbd-4e66-a041-8085c1764527.png)
-![Screenshot (393)](https://user-images.githubusercontent.com/84492118/156933382-fb20633f-89c0-44f6-acf6-6338151f0d41.png)
+# Getting Started with Create React App!
+use "npm i" and then "npm run start" to run in your pc
 
+
+[Screenshot (416)](https://user-images.githubusercontent.com/84492118/157740418-7e9cc4e8-77ae-42d7-9b49-49d6779e5769.png)
+
+![Screenshot (412)](https://user-images.githubusercontent.com/84492118/157740386-938f4a58-448c-4c12-bdd5-5fba8e34b663.png)
+![Screenshot (413)](https://user-images.githubusercontent.com/84492118/157740401-0f4df7e1-cc25-42a3-849b-a650c0fe0a7c.png)
+![Screenshot (414)](https://user-images.githubusercontent.com/84492118/157740408-8bea061e-0c84-48ba-a89b-ceda00f89f1d.png)
+![Screenshot (415)](https://user-images.githubusercontent.com/84492118/157740414-e361411b-907d-476b-b4be-28e4af79552b.png)
 
 
 
